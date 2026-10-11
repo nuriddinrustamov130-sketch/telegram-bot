@@ -1,0 +1,8 @@
+python-telegram-bot==22.8
+openai==3.28.0
+python-docx==1.2.0
+openpyxl==3.1.5
+pypdf==6.20.0
+yt-dlp==2026.8.19
+duckduckgo-search==8.1.1
+python-dotenv==1.2.4
